@@ -10,19 +10,19 @@ This is setup to fetch a two factor authenication (2FA) code from the user's reg
 How to install:
 
 install flask, request and virtual enviroment.
-
-move to the virtual enivorment folder
-
-install flask
+ “`install flask
 pip install flask
 pip install flask_caching
-pip install requests
+pip install requests“`
+ 
+move to the virtual enivorment folder:
 
-declare venv:
-pip install virtualenv
+declare virtual environment:
+ “`pip install virtualenv “`
 
-python -m venv saltee_rpts
 activate virtual environment
+ “`python -m venv saltee_rpts “`
+
 
 
 
