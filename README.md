@@ -22,7 +22,7 @@ declare venv:
 pip install virtualenv
 
 python -m venv saltee_rpts
-actuvate virtual environment
+activate virtual environment
 
 
 
