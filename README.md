@@ -7,16 +7,21 @@ This is setup to fetch a two factor authenication (2FA) code from the user's reg
 How to install on a local computer:
 
 install flask and requests, if not installed.
+
 `install flask`
+
 `pip install flask flask_caching requests`
  
 move to the virtual enivorment folder:
-`cd satlee_rpts`
+
+`cd saltee_rpts`
 
 declare virtual environment:
+
  `pip install virtualenv`
 
 activate virtual environment:
+
  `python -m venv saltee_rpts`
 
 
