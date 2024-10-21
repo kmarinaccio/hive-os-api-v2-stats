@@ -12,7 +12,7 @@ This is setup to fetch a two factor authenication (2FA) code from the user's reg
 
  `pip install flask flask_caching requests`
 
- Move to the Virtual Enivorment Folder:
+ Move to the Virtual Environment Folder:
 
  `cd saltee_rpts`
 
